@@ -1,7 +1,7 @@
 
 # UE L312 Projet individuel
 
-Andrey
+Serghei
 
 Trois exercices PHP sur les interfaces, les iterateurs et le cycle de vie d'un objet.
 
